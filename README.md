@@ -13,4 +13,4 @@ Tech Stack -
 ![image](https://user-images.githubusercontent.com/62741870/173178286-5b02643c-39fe-40a0-adea-7c08e1c5ddc3.png)
 
 
-The link for the counter project is https://ayu0107.github.io/Basic-Counter/
+The link for the counter project is [https://ayu0107.github.io/Basic-Counter/](https://ayushiiaggarwall.github.io/Basic-Counter/)
